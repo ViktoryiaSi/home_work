@@ -1,0 +1,22 @@
+Bug report JIRA's version
+
+Project
+Issue type
+Summary
+Priority
+Components
+Affected versions
+Environment
+Description
+Original estimate
+Remaining estimate
+Story points
+Labels
+Epic/Theme
+External issue id
+Epic link
+Has a story/s
+Tester
+Additional information
+Sprint
+
