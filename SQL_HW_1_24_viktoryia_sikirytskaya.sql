@@ -50,28 +50,28 @@ select * from students where created_on= '2021-07-12 00:00:00' and name like '%A
 select * from students where created_on= '2021-07-12 00:00:00' and name like '%8%';
 
 -- Вывести пользователя у которых id равен 10
-select * from students where id= '10';
+select * from students where id= 10;
 
 -- Вывести пользователя у которых id равен 53
-select * from students where id= '53';
+select * from students where id= 53;
 
 -- Вывести пользователя у которых id больше 40
-select * from students where id> '40'; 
+select * from students where id> 40; 
 
 -- Вывести пользователя у которых id меньше 30
-select * from students where id< '30';
+select * from students where id< 30;
 
 -- Вывести пользователя у которых id меньше 27 или больше 88
-select * from students where id< '27' or id> '88';
+select * from students where id< 27 or id> 88;
 
 -- Вывести пользователя у которых id меньше либо равно 37
-select * from students where id<= '37';
+select * from students where id<= 37;
 
 -- Вывести пользователя у которых id больше либо равно 37
-select * from students where id>= '37';
+select * from students where id>= 37;
 
 -- Вывести пользователя у которых id больше 80 но меньше 90
-select * from students where id> '80' and id< '90';
+select * from students where id> 80 and id< 90;
 
 -- Вывести пользователя у которых id между 80 и 90
 select * from students where id between 80 and 90;
